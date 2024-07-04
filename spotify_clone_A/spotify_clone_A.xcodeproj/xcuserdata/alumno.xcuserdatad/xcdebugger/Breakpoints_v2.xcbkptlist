@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "864AA93E-5F7A-4B49-931D-020501393668"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "spotify_clone_A/SignUpview.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SignUpview"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - 77260e5b32155918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of spotify_clone_A.SignUpview.counter : Swift.Int"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/spotify_clone_A/SignUpview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - d1972180f5e4586e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spotify_clone_A.SignUpview.counter.getter : Swift.Int"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/spotify_clone_A/SignUpview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - bf3205298d1b15ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spotify_clone_A.SignUpview.counter.setter : Swift.Int"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/spotify_clone_A/SignUpview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - 1ff250df78d97add"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spotify_clone_A.SignUpview.counter.modify : Swift.Int"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/spotify_clone_A/SignUpview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - 43c1eba19ab1e433"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spotify_clone_A.SignUpview.counter.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "7BC02B65-B737-42F3-A65A-63151756F7BD - 7b6f825cc4a5d496"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "spotify_clone_A.SignUpview.$counter.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "spotify_clone_A"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/Jhon%20Churivanti/spotify_clone_A/spotify_clone_A/SignUpview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
